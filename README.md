@@ -10,6 +10,8 @@ how to run this project
 5. then go to this URL : http://localhost/TRAVELICIOUS/
 
 
+Follow this link to see the overview of this project : https://youtu.be/Y8J6_SzZAM4
+
 
 
 
